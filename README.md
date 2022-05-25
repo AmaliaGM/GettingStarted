@@ -1,11 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Project Name
-# GettingStarted
 
 > Description the project.
-
-> Saying Hello.
 
 
 ## Built With
@@ -17,8 +16,7 @@
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
--                           
-- html
+
 
 ## Getting Started
 
@@ -39,10 +37,11 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
--                               
+
 
 
 ## Authors
+
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
@@ -56,24 +55,20 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
-👤 **Amalia Gomez Moro**
 
 Contributions, issues, and feature requests are welcome!
-- GitHub: [@AmaliaGM](https://github.com/AmaliaGM)
 
 Feel free to check the [issues page](../../issues/).
-Feel free to check the [issues page](../../issues/)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
--                       
+
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-- Microverse README template
 
 ## 📝 License
 

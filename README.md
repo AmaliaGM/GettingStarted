@@ -1,22 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Getting Started Microverse Project
 
-# Getting Started
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+> A project just to say hello.
 
 
+## Built With
+
+- HTML, css
+- Linter
+
+## Getting Started
 
 ## Authors
 
@@ -25,6 +19,7 @@
 - GitHub: [@AmaliaGM](https://github.com/AmaliaGM)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 👤 **Author2**
 
@@ -44,9 +39,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Microverse README Template
+- Microverse README template used
+- Inspiration
 - etc
 
 ## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
 
